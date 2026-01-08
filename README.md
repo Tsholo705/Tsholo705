@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Tsholofelo 👋
 
-<!--
-**Tsholo705/Tsholo705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior software developer currently learning and building with **JavaScript and React**.
+I enjoy turning ideas into simple, functional applications and improving my skills through real projects.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- JavaScript (ES6+)
+- React (learning & building)
+- HTML & CSS
+- Git & GitHub
+- AWS Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- React Hooks
+- Component-based design
+- Frontend best practices
+
+## 🚀 Projects
+- 📘 **StudyBuddy App** – A study planner built with React (in progress)
+- 🧮 **BMI Calculator** – JavaScript logic practice
+- 🎯 **FizzBuzz Challenge** – JavaScript fundamentals
+
+## 🌱 Goals
+- Grow as a frontend developer
+- Build real-world React applications
+- Contribute to team projects
+
+Thanks for visiting my profile!
